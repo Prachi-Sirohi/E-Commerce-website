@@ -1,0 +1,164 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+
+
+.container {
+    display: flex;
+    padding: 10px;
+
+}
+
+.text-on-background {
+    background-image: url('images/1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #000000;
+    padding: 100px 0;
+    height: 400px;
+    text-align: center;
+
+}
+
+.text-on-background h2 {
+    position: absolute;
+    left: 150px;
+    top: 170px;
+}
+
+.text-on-background p {
+    position: absolute;
+    left: 130px;
+    top: 250px;
+}
+
+.text-on-background button {
+    position: absolute;
+    left: 200px;
+    top: 290px;
+}
+
+.card span{
+    color: rgb(227, 194, 6);
+}
+
+.text-on-background-2 {
+    background-image: url('images/11.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    padding: 100px 0;
+    height: 280px;
+    text-align: center;
+
+}
+
+.text-on-background-2 span {
+    color: red;
+}
+
+.text-on-background-3 {
+    background-image: url('images/12.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    padding: 100px 0;
+    height: 300px;
+    width: 500px;
+
+}
+
+.text-on-background-3 h2 {
+    padding-left: 10px;
+
+}
+
+.text-on-background-3 p {
+    padding-left: 10px;
+
+}
+
+.text-on-background-4 {
+    background-image: url('images/13.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    padding: 100px 0;
+    height: 300px;
+    width: 500px;
+}
+
+
+.text-on-background-4 h2 {
+    padding-left: 10px;
+}
+
+.text-on-background-4 p {
+    padding-left: 10px;
+
+}
+
+.text-on-background-5 {
+    background-image: url('images/16.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    padding: 100px 0;
+    height: 220px;
+    width: 380px;
+}
+
+
+.text-on-background-5 h2 {
+    padding-left: 10px;
+}
+
+.text-on-background-5 p {
+    padding-left: 10px;
+
+}
+
+.text-on-background-6 {
+    background-image: url('images/15.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(211, 92, 7);
+    padding: 100px 0;
+    height: 220px;
+    width: 380px;
+}
+
+
+.text-on-background-6 h2 {
+    padding-left: 10px;
+}
+
+.text-on-background-6 p {
+    padding-left: 10px;
+
+}
+
+.text-on-background-7 {
+    background-image: url('images/14.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    padding: 100px 0;
+    height: 220px;
+    width: 380px;
+}
+
+
+.text-on-background-7 h2 {
+    padding-left: 10px;
+}
+
+.text-on-background-7 p {
+    padding-left: 10px;
+
+}
+.form-inline{
+    margin-left: 660px;
+}

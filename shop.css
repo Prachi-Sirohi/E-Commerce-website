@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.text-on-background-2 {
+    background-image: url('images/17.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    padding: 100px 0;
+    height: 280px;
+    text-align: center;
+
+}
+
+
+.card span{
+    color: rgb(227, 194, 6);
+}
+
+
+
+
